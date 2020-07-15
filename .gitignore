@@ -60,3 +60,7 @@ pyguts/examples/data/sword/Hilt.png
 pyguts/examples/data/sword/Star.png
 
 *.md~
+
+venv
+
+pyguts/venv
